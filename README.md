@@ -1,2 +1,2 @@
-# turk
+# Turk
 Türk tarihinde jeopolitik çözülmeler.
